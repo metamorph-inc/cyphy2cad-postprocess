@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CADMetricRoot VersionInfo="v1.1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CADMetrics.xsd">
+
+  <Anomalies _id="id7478"/>
+
+  <Assemblies _id="id7479">
+    <Assembly ConfigurationID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" _id="id78cb">
+      <CADComponent ComponentInstanceID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" MetricID="1" _id="id78cc">
+        <CADComponent ComponentInstanceID="0293b7a1-af8e-4522-8707-6fbf786585db" MetricID="5" _id="id78cd"/>
+        <CADComponent ComponentInstanceID="76cddc75-c978-44ff-b83b-d3825ad83564" MetricID="8" _id="id78ce"/>
+        <CADComponent ComponentInstanceID="5c964f2c-cd43-458b-90c2-b27754253920" MetricID="8" _id="id78cf"/>
+        <CADComponent ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" MetricID="9" _id="id78d0"/>
+        <CADComponent ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" MetricID="2" _id="id78d1"/>
+        <CADComponent ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" MetricID="6" _id="id78d2"/>
+        <CADComponent ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" MetricID="10" _id="id78d3"/>
+        <CADComponent ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" MetricID="3" _id="id78d4"/>
+        <CADComponent ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" MetricID="7" _id="id78d5"/>
+        <CADComponent ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" MetricID="13" _id="id78d6"/>
+        <CADComponent ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" MetricID="11" _id="id78d7"/>
+        <CADComponent ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" MetricID="14" _id="id78d8"/>
+        <CADComponent ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" MetricID="12" _id="id78d9"/>
+        <CADComponent ComponentInstanceID="a316bf0e-b929-4b55-a142-489eaad74273" MetricID="4" _id="id78da"/>
+      </CADComponent>
+    </Assembly>
+  </Assemblies>
+
+  <Joints _id="id747b"/>
+
+  <MetricComponents _id="id747a">
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="1" Name="TestModel_1" SpecialInstruction="" Type="ASSEMBLY" _id="id747c">
+      <BoundingBox X="4e+002" Y="486.2793604000001" Z="345.14999999999975" _id="id747e">
+        <OutlinePoints _id="id747f">
+          <Point X="-200.00000000000003" Y="-243.1396802" Z="-245.14999999999975" _id="id7480"/>
+          <Point X="199.99999999999994" Y="243.1396802000001" Z="1e+002" _id="id7481"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="135.18288805848897" Y="0" Z="-115.75515182040105" _id="id747d"/>
+      <Children _id="id74b9">
+        <ChildMetric ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" MetricID="2" _id="id74ba">
+          <RotationMatrix _id="id74bb">
+            <Rows _id="id74bc">
+              <Row _id="id74bd">
+                <Column Value="4.131859236849416e-080" _id="id74be"/>
+                <Column Value="2.5207783769957367e-014" _id="id74bf"/>
+                <Column Value="-1" _id="id74c0"/>
+              </Row>
+              <Row _id="id74c1">
+                <Column Value="-1" _id="id74c2"/>
+                <Column Value="1.499759782661873e-032" _id="id74c3"/>
+                <Column Value="0" _id="id74c4"/>
+              </Row>
+              <Row _id="id74c5">
+                <Column Value="1.499759782661873e-032" _id="id74c6"/>
+                <Column Value="1" _id="id74c7"/>
+                <Column Value="2.755014025990161e-048" _id="id74c8"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="-169.99999999999994" Z="-163.59999999999974" _id="id74c9"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" MetricID="3" _id="id74ca">
+          <RotationMatrix _id="id74cb">
+            <Rows _id="id74cc">
+              <Row _id="id74cd">
+                <Column Value="-4.131859236849416e-080" _id="id74ce"/>
+                <Column Value="-2.5207783769957367e-014" _id="id74cf"/>
+                <Column Value="1" _id="id74d0"/>
+              </Row>
+              <Row _id="id74d1">
+                <Column Value="1" _id="id74d2"/>
+                <Column Value="-1.499759782661873e-032" _id="id74d3"/>
+                <Column Value="0" _id="id74d4"/>
+              </Row>
+              <Row _id="id74d5">
+                <Column Value="1.499759782661873e-032" _id="id74d6"/>
+                <Column Value="1" _id="id74d7"/>
+                <Column Value="2.755014025990161e-048" _id="id74d8"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="170.00000000000006" Z="-163.59999999999977" _id="id74d9"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="a316bf0e-b929-4b55-a142-489eaad74273" MetricID="4" _id="id74da">
+          <RotationMatrix _id="id74db">
+            <Rows _id="id74dc">
+              <Row _id="id74dd">
+                <Column Value="2.2527479743215707e-032" _id="id74de"/>
+                <Column Value="1.2246467991473532e-016" _id="id74df"/>
+                <Column Value="1" _id="id74e0"/>
+              </Row>
+              <Row _id="id74e1">
+                <Column Value="1.7347234699996928e-017" _id="id74e2"/>
+                <Column Value="-1" _id="id74e3"/>
+                <Column Value="1.2246467991473532e-016" _id="id74e4"/>
+              </Row>
+              <Row _id="id74e5">
+                <Column Value="1" _id="id74e6"/>
+                <Column Value="1.7347234699996928e-017" _id="id74e7"/>
+                <Column Value="-2.465190328815662e-032" _id="id74e8"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999936" Y="156.50000000000006" Z="-227.64999999999975" _id="id74e9"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="0293b7a1-af8e-4522-8707-6fbf786585db" MetricID="5" _id="id74ea">
+          <RotationMatrix _id="id74eb">
+            <Rows _id="id74ec">
+              <Row _id="id74ed">
+                <Column Value="1" _id="id74ee"/>
+                <Column Value="0" _id="id74ef"/>
+                <Column Value="0" _id="id74f0"/>
+              </Row>
+              <Row _id="id74f1">
+                <Column Value="0" _id="id74f2"/>
+                <Column Value="1" _id="id74f3"/>
+                <Column Value="0" _id="id74f4"/>
+              </Row>
+              <Row _id="id74f5">
+                <Column Value="0" _id="id74f6"/>
+                <Column Value="0" _id="id74f7"/>
+                <Column Value="1" _id="id74f8"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="1e-020" Y="1e-020" Z="1e-020" _id="id74f9"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" MetricID="6" _id="id74fa">
+          <RotationMatrix _id="id74fb">
+            <Rows _id="id74fc">
+              <Row _id="id74fd">
+                <Column Value="4.131859236849416e-080" _id="id74fe"/>
+                <Column Value="-1" _id="id74ff"/>
+                <Column Value="-2.514655143e-014" _id="id7500"/>
+              </Row>
+              <Row _id="id7501">
+                <Column Value="-1" _id="id7502"/>
+                <Column Value="0" _id="id7503"/>
+                <Column Value="-1.499759782661873e-032" _id="id7504"/>
+              </Row>
+              <Row _id="id7505">
+                <Column Value="1.499759782661873e-032" _id="id7506"/>
+                <Column Value="2.755014025990161e-048" _id="id7507"/>
+                <Column Value="-1" _id="id7508"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="-169.99999999999994" Z="-171.59999999999974" _id="id7509"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" MetricID="7" _id="id750a">
+          <RotationMatrix _id="id750b">
+            <Rows _id="id750c">
+              <Row _id="id750d">
+                <Column Value="-4.131859236849416e-080" _id="id750e"/>
+                <Column Value="1" _id="id750f"/>
+                <Column Value="2.514655143e-014" _id="id7510"/>
+              </Row>
+              <Row _id="id7511">
+                <Column Value="1" _id="id7512"/>
+                <Column Value="0" _id="id7513"/>
+                <Column Value="1.499759782661873e-032" _id="id7514"/>
+              </Row>
+              <Row _id="id7515">
+                <Column Value="1.499759782661873e-032" _id="id7516"/>
+                <Column Value="2.755014025990161e-048" _id="id7517"/>
+                <Column Value="-1" _id="id7518"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="170.00000000000006" Z="-171.59999999999977" _id="id7519"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="76cddc75-c978-44ff-b83b-d3825ad83564" MetricID="8" _id="id751a">
+          <RotationMatrix _id="id751b">
+            <Rows _id="id751c">
+              <Row _id="id751d">
+                <Column Value="0" _id="id751e"/>
+                <Column Value="-1" _id="id751f"/>
+                <Column Value="0" _id="id7520"/>
+              </Row>
+              <Row _id="id7521">
+                <Column Value="0" _id="id7522"/>
+                <Column Value="0" _id="id7523"/>
+                <Column Value="-1" _id="id7524"/>
+              </Row>
+              <Row _id="id7525">
+                <Column Value="1" _id="id7526"/>
+                <Column Value="0" _id="id7527"/>
+                <Column Value="0" _id="id7528"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="-149.20000000000005" Y="-149.99999999999994" Z="25.4" _id="id7529"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="5c964f2c-cd43-458b-90c2-b27754253920" MetricID="8" _id="id752a">
+          <RotationMatrix _id="id752b">
+            <Rows _id="id752c">
+              <Row _id="id752d">
+                <Column Value="0" _id="id752e"/>
+                <Column Value="1" _id="id752f"/>
+                <Column Value="0" _id="id7530"/>
+              </Row>
+              <Row _id="id7531">
+                <Column Value="0" _id="id7532"/>
+                <Column Value="0" _id="id7533"/>
+                <Column Value="1" _id="id7534"/>
+              </Row>
+              <Row _id="id7535">
+                <Column Value="1" _id="id7536"/>
+                <Column Value="0" _id="id7537"/>
+                <Column Value="0" _id="id7538"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="-149.20000000000005" Y="150.00000000000006" Z="25.4" _id="id7539"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" MetricID="9" _id="id753a">
+          <RotationMatrix _id="id753b">
+            <Rows _id="id753c">
+              <Row _id="id753d">
+                <Column Value="1.8369701987210297e-016" _id="id753e"/>
+                <Column Value="1" _id="id753f"/>
+                <Column Value="1.2246467991473532e-016" _id="id7540"/>
+              </Row>
+              <Row _id="id7541">
+                <Column Value="0" _id="id7542"/>
+                <Column Value="-1.2246467991473532e-016" _id="id7543"/>
+                <Column Value="1" _id="id7544"/>
+              </Row>
+              <Row _id="id7545">
+                <Column Value="1" _id="id7546"/>
+                <Column Value="-1.8369701987210297e-016" _id="id7547"/>
+                <Column Value="-2.2496396739927864e-032" _id="id7548"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="-149.99999999999994" Z="25.4" _id="id7549"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" MetricID="10" _id="id754a">
+          <RotationMatrix _id="id754b">
+            <Rows _id="id754c">
+              <Row _id="id754d">
+                <Column Value="-1.8369701987210297e-016" _id="id754e"/>
+                <Column Value="-1" _id="id754f"/>
+                <Column Value="-1.2246467991473532e-016" _id="id7550"/>
+              </Row>
+              <Row _id="id7551">
+                <Column Value="0" _id="id7552"/>
+                <Column Value="1.2246467991473532e-016" _id="id7553"/>
+                <Column Value="-1" _id="id7554"/>
+              </Row>
+              <Row _id="id7555">
+                <Column Value="1" _id="id7556"/>
+                <Column Value="-1.8369701987210297e-016" _id="id7557"/>
+                <Column Value="-2.2496396739927864e-032" _id="id7558"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="150.00000000000006" Z="25.4" _id="id7559"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" MetricID="11" _id="id755a">
+          <RotationMatrix _id="id755b">
+            <Rows _id="id755c">
+              <Row _id="id755d">
+                <Column Value="-1.2246467991473532e-016" _id="id755e"/>
+                <Column Value="1" _id="id755f"/>
+                <Column Value="-2.5214722663957367e-014" _id="id7560"/>
+              </Row>
+              <Row _id="id7561">
+                <Column Value="1" _id="id7562"/>
+                <Column Value="1.2246467991473532e-016" _id="id7563"/>
+                <Column Value="-1.7347234700000015e-017" _id="id7564"/>
+              </Row>
+              <Row _id="id7565">
+                <Column Value="-1.7347234699996928e-017" _id="id7566"/>
+                <Column Value="-1.2246467991473535e-016" _id="id7567"/>
+                <Column Value="-1" _id="id7568"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="-169.99999999999994" Z="-207.64999999999975" _id="id7569"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" MetricID="12" _id="id756a">
+          <RotationMatrix _id="id756b">
+            <Rows _id="id756c">
+              <Row _id="id756d">
+                <Column Value="1.2246467991473532e-016" _id="id756e"/>
+                <Column Value="-1" _id="id756f"/>
+                <Column Value="2.5214722663957367e-014" _id="id7570"/>
+              </Row>
+              <Row _id="id7571">
+                <Column Value="-1" _id="id7572"/>
+                <Column Value="-1.2246467991473532e-016" _id="id7573"/>
+                <Column Value="1.7347234700000015e-017" _id="id7574"/>
+              </Row>
+              <Row _id="id7575">
+                <Column Value="-1.7347234699996928e-017" _id="id7576"/>
+                <Column Value="-1.2246467991473535e-016" _id="id7577"/>
+                <Column Value="-1" _id="id7578"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="170.00000000000006" Z="-207.64999999999978" _id="id7579"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" MetricID="13" _id="id757a">
+          <RotationMatrix _id="id757b">
+            <Rows _id="id757c">
+              <Row _id="id757d">
+                <Column Value="-1.2246467991473505e-016" _id="id757e"/>
+                <Column Value="1" _id="id757f"/>
+                <Column Value="-2.5041250315957367e-014" _id="id7580"/>
+              </Row>
+              <Row _id="id7581">
+                <Column Value="1" _id="id7582"/>
+                <Column Value="1.2246467991473532e-016" _id="id7583"/>
+                <Column Value="1.0408340900000026e-017" _id="id7584"/>
+              </Row>
+              <Row _id="id7585">
+                <Column Value="1.0408340900003092e-017" _id="id7586"/>
+                <Column Value="-1.2246467991473535e-016" _id="id7587"/>
+                <Column Value="-1" _id="id7588"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="-1.7e+002" Z="-191.59999999999974" _id="id7589"/>
+        </ChildMetric>
+        <ChildMetric ComponentInstanceID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" MetricID="14" _id="id758a">
+          <RotationMatrix _id="id758b">
+            <Rows _id="id758c">
+              <Row _id="id758d">
+                <Column Value="1.2246467991473505e-016" _id="id758e"/>
+                <Column Value="-1" _id="id758f"/>
+                <Column Value="2.5041250315957367e-014" _id="id7590"/>
+              </Row>
+              <Row _id="id7591">
+                <Column Value="-1" _id="id7592"/>
+                <Column Value="-1.2246467991473532e-016" _id="id7593"/>
+                <Column Value="-1.0408340900000026e-017" _id="id7594"/>
+              </Row>
+              <Row _id="id7595">
+                <Column Value="1.0408340900003092e-017" _id="id7596"/>
+                <Column Value="-1.2246467991473535e-016" _id="id7597"/>
+                <Column Value="-1" _id="id7598"/>
+              </Row>
+            </Rows>
+          </RotationMatrix>
+          <Translation X="149.19999999999993" Y="170.0000000000001" Z="-191.59999999999977" _id="id7599"/>
+        </ChildMetric>
+      </Children>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7482">
+        <Rows _id="id7483">
+          <Row _id="id7484">
+            <Column Value="3561133.291812647" _id="id7485"/>
+            <Column Value="-148.6455123363897" _id="id7486"/>
+            <Column Value="370788.11744318693" _id="id7487"/>
+          </Row>
+          <Row _id="id7488">
+            <Column Value="-148.6455123363897" _id="id7489"/>
+            <Column Value="1572884.9015699967" _id="id748a"/>
+            <Column Value="0" _id="id748b"/>
+          </Row>
+          <Row _id="id748c">
+            <Column Value="370788.11744318693" _id="id748d"/>
+            <Column Value="0" _id="id748e"/>
+            <Column Value="2925454.425599088" _id="id748f"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id7490">
+        <Rows _id="id7491">
+          <Row _id="id7492">
+            <Column Value="3282608.9665136877" _id="id7493"/>
+            <Column Value="-148.6455123363897" _id="id7494"/>
+            <Column Value="45517.73339260346" _id="id7495"/>
+          </Row>
+          <Row _id="id7496">
+            <Column Value="-148.6455123363897" _id="id7497"/>
+            <Column Value="914498.5206791221" _id="id7498"/>
+            <Column Value="0" _id="id7499"/>
+          </Row>
+          <Row _id="id749a">
+            <Column Value="45517.73339260346" _id="id749b"/>
+            <Column Value="0" _id="id749c"/>
+            <Column Value="2545592.3700071727" _id="id749d"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <PrincipleMomentsOfInertia _id="id749e">
+        <RotationMatrix _id="id749f">
+          <Rows _id="id74a0">
+            <Row _id="id74a1">
+              <Column Value="6.280335717246306e-005" _id="id74a2"/>
+              <Column Value="-0.06140953557236019" _id="id74a3"/>
+              <Column Value="0.9981126514559994" _id="id74a4"/>
+            </Row>
+            <Row _id="id74a5">
+              <Column Value="0.9999999980263333" _id="id74a6"/>
+              <Column Value="5.6060242021740395e-006" _id="id74a7"/>
+              <Column Value="-6.257719869068375e-005" _id="id74a8"/>
+            </Row>
+            <Row _id="id74a9">
+              <Column Value="0" _id="id74aa"/>
+              <Column Value="0.9981126534161159" _id="id74ab"/>
+              <Column Value="0.06140953580323537" _id="id74ac"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id74ad">
+          <Row _id="id74ae">
+            <Column Value="914498.5113436849" _id="id74af"/>
+          </Row>
+          <Row _id="id74b0">
+            <Column Value="2542791.8616092685" _id="id74b1"/>
+          </Row>
+          <Row _id="id74b2">
+            <Column Value="3285409.484247029" _id="id74b3"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id74b5">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="786649.1976811609" _id="id74b6"/>
+        <Scalar Name="Volume" Unit="mm3" Value="12674211.599861905" _id="id74b7"/>
+        <Scalar Name="Mass" Unit="kg" Value="20.786552812349075" _id="id74b8"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id74b4"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="2" Name="tubepar_2Z" SpecialInstruction="" Type="PART" _id="id759a">
+      <BoundingBox X="31.53457567826046" Y="175" Z="31.623" _id="id759c">
+        <OutlinePoints _id="id759d">
+          <Point X="-15.76728783913023" Y="0" Z="-15.8115" _id="id759e"/>
+          <Point X="15.76728783913023" Y="175" Z="15.8115" _id="id759f"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="0" Y="87.5" Z="0" _id="id759b"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id75a0">
+        <Rows _id="id75a1">
+          <Row _id="id75a2">
+            <Column Value="387053.0490331022" _id="id75a3"/>
+            <Column Value="0" _id="id75a4"/>
+            <Column Value="0" _id="id75a5"/>
+          </Row>
+          <Row _id="id75a6">
+            <Column Value="0" _id="id75a7"/>
+            <Column Value="8481.10702968749" _id="id75a8"/>
+            <Column Value="0" _id="id75a9"/>
+          </Row>
+          <Row _id="id75aa">
+            <Column Value="0" _id="id75ab"/>
+            <Column Value="0" _id="id75ac"/>
+            <Column Value="387053.0579965851" _id="id75ad"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id75ae">
+        <Rows _id="id75af">
+          <Row _id="id75b0">
+            <Column Value="341115.5490331022" _id="id75b1"/>
+            <Column Value="0" _id="id75b2"/>
+            <Column Value="0" _id="id75b3"/>
+          </Row>
+          <Row _id="id75b4">
+            <Column Value="0" _id="id75b5"/>
+            <Column Value="8481.10702968749" _id="id75b6"/>
+            <Column Value="0" _id="id75b7"/>
+          </Row>
+          <Row _id="id75b8">
+            <Column Value="0" _id="id75b9"/>
+            <Column Value="0" _id="id75ba"/>
+            <Column Value="341115.5579965851" _id="id75bb"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id75d8"/>
+      <PrincipleMomentsOfInertia _id="id75bc">
+        <RotationMatrix _id="id75bd">
+          <Rows _id="id75be">
+            <Row _id="id75bf">
+              <Column Value="0" _id="id75c0"/>
+              <Column Value="0" _id="id75c1"/>
+              <Column Value="1" _id="id75c2"/>
+            </Row>
+            <Row _id="id75c3">
+              <Column Value="1" _id="id75c4"/>
+              <Column Value="0" _id="id75c5"/>
+              <Column Value="0" _id="id75c6"/>
+            </Row>
+            <Row _id="id75c7">
+              <Column Value="0" _id="id75c8"/>
+              <Column Value="1" _id="id75c9"/>
+              <Column Value="0" _id="id75ca"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id75cb">
+          <Row _id="id75cc">
+            <Column Value="8481.10702968749" _id="id75cd"/>
+          </Row>
+          <Row _id="id75ce">
+            <Column Value="341115.53901162365" _id="id75cf"/>
+          </Row>
+          <Row _id="id75d0">
+            <Column Value="341115.5680180636" _id="id75d1"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id75d3">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="33325.34794843008" _id="id75d4"/>
+        <Scalar Name="Volume" Unit="mm3" Value="26214.19473893463" _id="id75d5"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="0.0014305226757281662" _id="id75d6"/>
+        <Scalar Name="Mass" Unit="kg" Value="6" _id="id75d7"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id75d2"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="3" Name="tubepar_7Z" SpecialInstruction="" Type="PART" _id="id75d9">
+      <BoundingBox X="31.53457567826046" Y="175" Z="31.623" _id="id75db">
+        <OutlinePoints _id="id75dc">
+          <Point X="-15.76728783913023" Y="0" Z="-15.8115" _id="id75dd"/>
+          <Point X="15.76728783913023" Y="175" Z="15.8115" _id="id75de"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="0" Y="87.5" Z="0" _id="id75da"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id75df">
+        <Rows _id="id75e0">
+          <Row _id="id75e1">
+            <Column Value="387053.0490331022" _id="id75e2"/>
+            <Column Value="0" _id="id75e3"/>
+            <Column Value="0" _id="id75e4"/>
+          </Row>
+          <Row _id="id75e5">
+            <Column Value="0" _id="id75e6"/>
+            <Column Value="8481.10702968749" _id="id75e7"/>
+            <Column Value="0" _id="id75e8"/>
+          </Row>
+          <Row _id="id75e9">
+            <Column Value="0" _id="id75ea"/>
+            <Column Value="0" _id="id75eb"/>
+            <Column Value="387053.0579965851" _id="id75ec"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id75ed">
+        <Rows _id="id75ee">
+          <Row _id="id75ef">
+            <Column Value="341115.5490331022" _id="id75f0"/>
+            <Column Value="0" _id="id75f1"/>
+            <Column Value="0" _id="id75f2"/>
+          </Row>
+          <Row _id="id75f3">
+            <Column Value="0" _id="id75f4"/>
+            <Column Value="8481.10702968749" _id="id75f5"/>
+            <Column Value="0" _id="id75f6"/>
+          </Row>
+          <Row _id="id75f7">
+            <Column Value="0" _id="id75f8"/>
+            <Column Value="0" _id="id75f9"/>
+            <Column Value="341115.5579965851" _id="id75fa"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id7617"/>
+      <PrincipleMomentsOfInertia _id="id75fb">
+        <RotationMatrix _id="id75fc">
+          <Rows _id="id75fd">
+            <Row _id="id75fe">
+              <Column Value="0" _id="id75ff"/>
+              <Column Value="0" _id="id7600"/>
+              <Column Value="1" _id="id7601"/>
+            </Row>
+            <Row _id="id7602">
+              <Column Value="1" _id="id7603"/>
+              <Column Value="0" _id="id7604"/>
+              <Column Value="0" _id="id7605"/>
+            </Row>
+            <Row _id="id7606">
+              <Column Value="0" _id="id7607"/>
+              <Column Value="1" _id="id7608"/>
+              <Column Value="0" _id="id7609"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id760a">
+          <Row _id="id760b">
+            <Column Value="8481.10702968749" _id="id760c"/>
+          </Row>
+          <Row _id="id760d">
+            <Column Value="341115.53901162365" _id="id760e"/>
+          </Row>
+          <Row _id="id760f">
+            <Column Value="341115.5680180636" _id="id7610"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7612">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="33325.34794843008" _id="id7613"/>
+        <Scalar Name="Volume" Unit="mm3" Value="26214.19473893463" _id="id7614"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="0.0014305226757281662" _id="id7615"/>
+        <Scalar Name="Mass" Unit="kg" Value="6" _id="id7616"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7611"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="4" Name="tubepar_12Z" SpecialInstruction="" Type="PART" _id="id7618">
+      <BoundingBox X="31.53457567826046" Y="313" Z="31.623" _id="id761a">
+        <OutlinePoints _id="id761b">
+          <Point X="-15.76728783913023" Y="0" Z="-15.8115" _id="id761c"/>
+          <Point X="15.76728783913023" Y="313" Z="15.8115" _id="id761d"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="0" Y="156.5" Z="0" _id="id7619"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id761e">
+        <Rows _id="id761f">
+          <Row _id="id7620">
+            <Column Value="2197891.4534134893" _id="id7621"/>
+            <Column Value="0" _id="id7622"/>
+            <Column Value="0" _id="id7623"/>
+          </Row>
+          <Row _id="id7624">
+            <Column Value="0" _id="id7625"/>
+            <Column Value="15169.065715955345" _id="id7626"/>
+            <Column Value="0" _id="id7627"/>
+          </Row>
+          <Row _id="id7628">
+            <Column Value="0" _id="id7629"/>
+            <Column Value="0" _id="id762a"/>
+            <Column Value="2197891.469445319" _id="id762b"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id762c">
+        <Rows _id="id762d">
+          <Row _id="id762e">
+            <Column Value="2050937.9534134893" _id="id762f"/>
+            <Column Value="0" _id="id7630"/>
+            <Column Value="0" _id="id7631"/>
+          </Row>
+          <Row _id="id7632">
+            <Column Value="0" _id="id7633"/>
+            <Column Value="15169.065715955345" _id="id7634"/>
+            <Column Value="0" _id="id7635"/>
+          </Row>
+          <Row _id="id7636">
+            <Column Value="0" _id="id7637"/>
+            <Column Value="0" _id="id7638"/>
+            <Column Value="2050937.9694453187" _id="id7639"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id7656"/>
+      <PrincipleMomentsOfInertia _id="id763a">
+        <RotationMatrix _id="id763b">
+          <Rows _id="id763c">
+            <Row _id="id763d">
+              <Column Value="0" _id="id763e"/>
+              <Column Value="0" _id="id763f"/>
+              <Column Value="1" _id="id7640"/>
+            </Row>
+            <Row _id="id7641">
+              <Column Value="1" _id="id7642"/>
+              <Column Value="0" _id="id7643"/>
+              <Column Value="0" _id="id7644"/>
+            </Row>
+            <Row _id="id7645">
+              <Column Value="0" _id="id7646"/>
+              <Column Value="1" _id="id7647"/>
+              <Column Value="0" _id="id7648"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7649">
+          <Row _id="id764a">
+            <Column Value="15169.065715955345" _id="id764b"/>
+          </Row>
+          <Row _id="id764c">
+            <Column Value="2050937.935489359" _id="id764d"/>
+          </Row>
+          <Row _id="id764e">
+            <Column Value="2050937.9873694489" _id="id764f"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7651">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="59368.516444973444" _id="id7652"/>
+        <Scalar Name="Volume" Unit="mm3" Value="46885.959733065916" _id="id7653"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="0.0014305226757281662" _id="id7654"/>
+        <Scalar Name="Mass" Unit="kg" Value="6" _id="id7655"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7650"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="5" Name="chassis_box_1Z" SpecialInstruction="" Type="PART" _id="id7657">
+      <BoundingBox X="4e+002" Y="3e+002" Z="1e+002" _id="id7659">
+        <OutlinePoints _id="id765a">
+          <Point X="-200.00000000000003" Y="-149.99999999999994" Z="0" _id="id765b"/>
+          <Point X="199.99999999999994" Y="150.00000000000006" Z="1e+002" _id="id765c"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="0" Y="0" Z="50" _id="id7658"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id765d">
+        <Rows _id="id765e">
+          <Row _id="id765f">
+            <Column Value="1.3e+004" _id="id7660"/>
+            <Column Value="0" _id="id7661"/>
+            <Column Value="0" _id="id7662"/>
+          </Row>
+          <Row _id="id7663">
+            <Column Value="0" _id="id7664"/>
+            <Column Value="19999.999999999996" _id="id7665"/>
+            <Column Value="0" _id="id7666"/>
+          </Row>
+          <Row _id="id7667">
+            <Column Value="0" _id="id7668"/>
+            <Column Value="0" _id="id7669"/>
+            <Column Value="24999.999999999996" _id="id766a"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id766b">
+        <Rows _id="id766c">
+          <Row _id="id766d">
+            <Column Value="1e+004" _id="id766e"/>
+            <Column Value="0" _id="id766f"/>
+            <Column Value="0" _id="id7670"/>
+          </Row>
+          <Row _id="id7671">
+            <Column Value="0" _id="id7672"/>
+            <Column Value="16999.999999999996" _id="id7673"/>
+            <Column Value="0" _id="id7674"/>
+          </Row>
+          <Row _id="id7675">
+            <Column Value="0" _id="id7676"/>
+            <Column Value="0" _id="id7677"/>
+            <Column Value="24999.999999999996" _id="id7678"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="Undefined" _id="id7695"/>
+      <PrincipleMomentsOfInertia _id="id7679">
+        <RotationMatrix _id="id767a">
+          <Rows _id="id767b">
+            <Row _id="id767c">
+              <Column Value="1" _id="id767d"/>
+              <Column Value="0" _id="id767e"/>
+              <Column Value="0" _id="id767f"/>
+            </Row>
+            <Row _id="id7680">
+              <Column Value="0" _id="id7681"/>
+              <Column Value="1" _id="id7682"/>
+              <Column Value="0" _id="id7683"/>
+            </Row>
+            <Row _id="id7684">
+              <Column Value="0" _id="id7685"/>
+              <Column Value="0" _id="id7686"/>
+              <Column Value="1" _id="id7687"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7688">
+          <Row _id="id7689">
+            <Column Value="1e+004" _id="id768a"/>
+          </Row>
+          <Row _id="id768b">
+            <Column Value="16999.999999999996" _id="id768c"/>
+          </Row>
+          <Row _id="id768d">
+            <Column Value="24999.999999999996" _id="id768e"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7690">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="3.8e+005" _id="id7691"/>
+        <Scalar Name="Volume" Unit="mm3" Value="11999999.999999998" _id="id7692"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="1e-007" _id="id7693"/>
+        <Scalar Name="Mass" Unit="kg" Value="1.1999999999999997" _id="id7694"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id768f"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="6" Name="a_2119_01_6Z" SpecialInstruction="" Type="PART" _id="id7696">
+      <BoundingBox X="58.92347525293194" Y="66" Z="40.000000000000014" _id="id7698">
+        <OutlinePoints _id="id7699">
+          <Point X="-26.000000000000004" Y="-33" Z="-30" _id="id769a"/>
+          <Point X="32.92347525293193" Y="33" Z="10.00000000000001" _id="id769b"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="3.01190044182109" Y="-0.00014140230089986443" Z="-7.053005078493776" _id="id7697"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id769c">
+        <Rows _id="id769d">
+          <Row _id="id769e">
+            <Column Value="47.421090337758585" _id="id769f"/>
+            <Column Value="0" _id="id76a0"/>
+            <Column Value="1.2074623398530449" _id="id76a1"/>
+          </Row>
+          <Row _id="id76a2">
+            <Column Value="0" _id="id76a3"/>
+            <Column Value="38.520761157512624" _id="id76a4"/>
+            <Column Value="0" _id="id76a5"/>
+          </Row>
+          <Row _id="id76a6">
+            <Column Value="1.2074623398530449" _id="id76a7"/>
+            <Column Value="0" _id="id76a8"/>
+            <Column Value="52.82553051494815" _id="id76a9"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id76aa">
+        <Rows _id="id76ab">
+          <Row _id="id76ac">
+            <Column Value="42.19422177948758" _id="id76ad"/>
+            <Column Value="0" _id="id76ae"/>
+            <Column Value="-1.024608605576006" _id="id76af"/>
+          </Row>
+          <Row _id="id76b0">
+            <Column Value="0" _id="id76b1"/>
+            <Column Value="32.340713723418126" _id="id76b2"/>
+            <Column Value="0" _id="id76b3"/>
+          </Row>
+          <Row _id="id76b4">
+            <Column Value="-1.024608605576006" _id="id76b5"/>
+            <Column Value="0" _id="id76b6"/>
+            <Column Value="51.87235163492285" _id="id76b7"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id76d4"/>
+      <PrincipleMomentsOfInertia _id="id76b8">
+        <RotationMatrix _id="id76b9">
+          <Rows _id="id76ba">
+            <Row _id="id76bb">
+              <Column Value="-1.2089336206916567e-005" _id="id76bc"/>
+              <Column Value="-0.9945628128060677" _id="id76bd"/>
+              <Column Value="-0.10413842344269639" _id="id76be"/>
+            </Row>
+            <Row _id="id76bf">
+              <Column Value="0.9999999997728755" _id="id76c0"/>
+              <Column Value="-1.0195694311486029e-005" _id="id76c1"/>
+              <Column Value="-1.871622141755314e-005" _id="id76c2"/>
+            </Row>
+            <Row _id="id76c3">
+              <Column Value="1.7552694286641e-005" _id="id76c4"/>
+              <Column Value="-0.10413842364531069" _id="id76c5"/>
+              <Column Value="0.9945628127034373" _id="id76c6"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id76c7">
+          <Row _id="id76c8">
+            <Column Value="32.34071371552553" _id="id76c9"/>
+          </Row>
+          <Row _id="id76ca">
+            <Column Value="42.08693733021367" _id="id76cb"/>
+          </Row>
+          <Row _id="id76cc">
+            <Column Value="51.97963609208935" _id="id76cd"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id76cf">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="20840.146843069804" _id="id76d0"/>
+        <Scalar Name="Volume" Unit="mm3" Value="38916.109923801676" _id="id76d1"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id76d2"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.10507349679426452" _id="id76d3"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id76ce"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="7" Name="a_2119_01_11Z" SpecialInstruction="" Type="PART" _id="id76d5">
+      <BoundingBox X="58.92347525293194" Y="66" Z="40.000000000000014" _id="id76d7">
+        <OutlinePoints _id="id76d8">
+          <Point X="-26.000000000000004" Y="-33" Z="-30" _id="id76d9"/>
+          <Point X="32.92347525293193" Y="33" Z="10.00000000000001" _id="id76da"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="3.01190044182109" Y="-0.00014140230089986443" Z="-7.053005078493776" _id="id76d6"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id76db">
+        <Rows _id="id76dc">
+          <Row _id="id76dd">
+            <Column Value="47.421090337758585" _id="id76de"/>
+            <Column Value="0" _id="id76df"/>
+            <Column Value="1.2074623398530449" _id="id76e0"/>
+          </Row>
+          <Row _id="id76e1">
+            <Column Value="0" _id="id76e2"/>
+            <Column Value="38.520761157512624" _id="id76e3"/>
+            <Column Value="0" _id="id76e4"/>
+          </Row>
+          <Row _id="id76e5">
+            <Column Value="1.2074623398530449" _id="id76e6"/>
+            <Column Value="0" _id="id76e7"/>
+            <Column Value="52.82553051494815" _id="id76e8"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id76e9">
+        <Rows _id="id76ea">
+          <Row _id="id76eb">
+            <Column Value="42.19422177948758" _id="id76ec"/>
+            <Column Value="0" _id="id76ed"/>
+            <Column Value="-1.024608605576006" _id="id76ee"/>
+          </Row>
+          <Row _id="id76ef">
+            <Column Value="0" _id="id76f0"/>
+            <Column Value="32.340713723418126" _id="id76f1"/>
+            <Column Value="0" _id="id76f2"/>
+          </Row>
+          <Row _id="id76f3">
+            <Column Value="-1.024608605576006" _id="id76f4"/>
+            <Column Value="0" _id="id76f5"/>
+            <Column Value="51.87235163492285" _id="id76f6"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id7713"/>
+      <PrincipleMomentsOfInertia _id="id76f7">
+        <RotationMatrix _id="id76f8">
+          <Rows _id="id76f9">
+            <Row _id="id76fa">
+              <Column Value="-1.2089336206916567e-005" _id="id76fb"/>
+              <Column Value="-0.9945628128060677" _id="id76fc"/>
+              <Column Value="-0.10413842344269639" _id="id76fd"/>
+            </Row>
+            <Row _id="id76fe">
+              <Column Value="0.9999999997728755" _id="id76ff"/>
+              <Column Value="-1.0195694311486029e-005" _id="id7700"/>
+              <Column Value="-1.871622141755314e-005" _id="id7701"/>
+            </Row>
+            <Row _id="id7702">
+              <Column Value="1.7552694286641e-005" _id="id7703"/>
+              <Column Value="-0.10413842364531069" _id="id7704"/>
+              <Column Value="0.9945628127034373" _id="id7705"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7706">
+          <Row _id="id7707">
+            <Column Value="32.34071371552553" _id="id7708"/>
+          </Row>
+          <Row _id="id7709">
+            <Column Value="42.08693733021367" _id="id770a"/>
+          </Row>
+          <Row _id="id770b">
+            <Column Value="51.97963609208935" _id="id770c"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id770e">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="20840.146843069804" _id="id770f"/>
+        <Scalar Name="Volume" Unit="mm3" Value="38916.109923801676" _id="id7710"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id7711"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.10507349679426452" _id="id7712"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id770d"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="8" Name="rplidar_a2" SpecialInstruction="" Type="ASSEMBLY" _id="id7714">
+      <BoundingBox X="74.91346759327402" Y="75.000000000028" Z="40.80000000004967" _id="id7716">
+        <OutlinePoints _id="id7717">
+          <Point X="-37.413467593273545" Y="-37.50000000001455" Z="-1.7763468394002505e-015" _id="id7718"/>
+          <Point X="37.500000000000476" Y="37.500000000013436" Z="40.80000000004967" _id="id7719"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="-0.1303406727221571" Y="-1.365331020191436" Z="20.51666264042769" _id="id7715"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id771a">
+        <Rows _id="id771b">
+          <Row _id="id771c">
+            <Column Value="160.9134831465128" _id="id771d"/>
+            <Column Value="-0.2580612059291335" _id="id771e"/>
+            <Column Value="0.5108455394504237" _id="id771f"/>
+          </Row>
+          <Row _id="id7720">
+            <Column Value="-0.25806120592913345" _id="id7721"/>
+            <Column Value="157.62219924285782" _id="id7722"/>
+            <Column Value="7.715869963073036" _id="id7723"/>
+          </Row>
+          <Row _id="id7724">
+            <Column Value="0.5108455394504237" _id="id7725"/>
+            <Column Value="7.715869963073036" _id="id7726"/>
+            <Column Value="135.03075472993032" _id="id7727"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id7728">
+        <Rows _id="id7729">
+          <Row _id="id772a">
+            <Column Value="81.33612354577882" _id="id772b"/>
+            <Column Value="-0.22456659377659" _id="id772c"/>
+            <Column Value="0.007526089703100647" _id="id772d"/>
+          </Row>
+          <Row _id="id772e">
+            <Column Value="-0.22456659377658994" _id="id772f"/>
+            <Column Value="78.39250136268437" _id="id7730"/>
+            <Column Value="2.4435505599763436" _id="id7731"/>
+          </Row>
+          <Row _id="id7732">
+            <Column Value="0.007526089703100647" _id="id7733"/>
+            <Column Value="2.4435505599763436" _id="id7734"/>
+            <Column Value="134.6766979151165" _id="id7735"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <PrincipleMomentsOfInertia _id="id7736">
+        <RotationMatrix _id="id7737">
+          <Rows _id="id7738">
+            <Row _id="id7739">
+              <Column Value="0.07308640298446888" _id="id773a"/>
+              <Column Value="-0.9973256118238263" _id="id773b"/>
+              <Column Value="-4.1219200609732364e-005" _id="id773c"/>
+            </Row>
+            <Row _id="id773d">
+              <Column Value="0.9963906898049716" _id="id773e"/>
+              <Column Value="0.07301610039753496" _id="id773f"/>
+              <Column Value="0.043292520747929386" _id="id7740"/>
+            </Row>
+            <Row _id="id7741">
+              <Column Value="-0.04317373007703433" _id="id7742"/>
+              <Column Value="-0.0032051650453253887" _id="id7743"/>
+              <Column Value="0.9990624384633163" _id="id7744"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7745">
+          <Row _id="id7746">
+            <Column Value="78.27014980107005" _id="id7747"/>
+          </Row>
+          <Row _id="id7748">
+            <Column Value="81.35258867925388" _id="id7749"/>
+          </Row>
+          <Row _id="id774a">
+            <Column Value="134.7825843432558" _id="id774b"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id774d">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="51395.96939999027" _id="id774e"/>
+        <Scalar Name="Volume" Unit="mm3" Value="40155.969126138225" _id="id774f"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.18821621589950202" _id="id7750"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id774c"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="9" Name="a_2039_02_3Z" SpecialInstruction="" Type="PART" _id="id7751">
+      <BoundingBox X="68.5" Y="64.99971392782686" Z="37.500000011721504" _id="id7753">
+        <OutlinePoints _id="id7754">
+          <Point X="-36" Y="-32.49985694726793" Z="-37.5" _id="id7755"/>
+          <Point X="32.5" Y="32.49985698055894" Z="1.172150411662018e-008" _id="id7756"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="-11.435889528719828" Y="0" Z="-11.665952368480035" _id="id7752"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7757">
+        <Rows _id="id7758">
+          <Row _id="id7759">
+            <Column Value="46.46708640275823" _id="id775a"/>
+            <Column Value="0" _id="id775b"/>
+            <Column Value="-19.070505877596798" _id="id775c"/>
+          </Row>
+          <Row _id="id775d">
+            <Column Value="0" _id="id775e"/>
+            <Column Value="58.69167161105058" _id="id775f"/>
+            <Column Value="0" _id="id7760"/>
+          </Row>
+          <Row _id="id7761">
+            <Column Value="-19.070505877596798" _id="id7762"/>
+            <Column Value="0" _id="id7763"/>
+            <Column Value="62.88505990678172" _id="id7764"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id7765">
+        <Rows _id="id7766">
+          <Row _id="id7767">
+            <Column Value="35.476636612734154" _id="id7768"/>
+            <Column Value="0" _id="id7769"/>
+            <Column Value="-8.296797422447934" _id="id776a"/>
+          </Row>
+          <Row _id="id776b">
+            <Column Value="0" _id="id776c"/>
+            <Column Value="37.13998037102649" _id="id776d"/>
+            <Column Value="0" _id="id776e"/>
+          </Row>
+          <Row _id="id776f">
+            <Column Value="-8.296797422447932" _id="id7770"/>
+            <Column Value="0" _id="id7771"/>
+            <Column Value="52.3238184567817" _id="id7772"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id778f"/>
+      <PrincipleMomentsOfInertia _id="id7773">
+        <RotationMatrix _id="id7774">
+          <Rows _id="id7775">
+            <Row _id="id7776">
+              <Column Value="0.9253238356767861" _id="id7777"/>
+              <Column Value="-4.578565212338092e-005" _id="id7778"/>
+              <Column Value="-0.37917779079486447" _id="id7779"/>
+            </Row>
+            <Row _id="id777a">
+              <Column Value="4.920608259402236e-005" _id="id777b"/>
+              <Column Value="0.9999999987891562" _id="id777c"/>
+              <Column Value="0" _id="id777d"/>
+            </Row>
+            <Row _id="id777e">
+              <Column Value="0.3791777903664208" _id="id777f"/>
+              <Column Value="-1.8037784560277758e-005" _id="id7780"/>
+              <Column Value="0.9253238368092961" _id="id7781"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7782">
+          <Row _id="id7783">
+            <Column Value="32.0767876046601" _id="id7784"/>
+          </Row>
+          <Row _id="id7785">
+            <Column Value="37.13998038327734" _id="id7786"/>
+          </Row>
+          <Row _id="id7787">
+            <Column Value="55.7236674526049" _id="id7788"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id778a">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="17073.8708095527" _id="id778b"/>
+        <Scalar Name="Volume" Unit="mm3" Value="29909.648180926386" _id="id778c"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id778d"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.08075605008850124" _id="id778e"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7789"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="10" Name="a_2039_02_8Z" SpecialInstruction="" Type="PART" _id="id7790">
+      <BoundingBox X="68.5" Y="64.99971392782686" Z="37.500000011721504" _id="id7792">
+        <OutlinePoints _id="id7793">
+          <Point X="-36" Y="-32.49985694726793" Z="-37.5" _id="id7794"/>
+          <Point X="32.5" Y="32.49985698055894" Z="1.172150411662018e-008" _id="id7795"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="-11.435889528719828" Y="0" Z="-11.665952368480035" _id="id7791"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7796">
+        <Rows _id="id7797">
+          <Row _id="id7798">
+            <Column Value="46.46708640275823" _id="id7799"/>
+            <Column Value="0" _id="id779a"/>
+            <Column Value="-19.070505877596798" _id="id779b"/>
+          </Row>
+          <Row _id="id779c">
+            <Column Value="0" _id="id779d"/>
+            <Column Value="58.69167161105058" _id="id779e"/>
+            <Column Value="0" _id="id779f"/>
+          </Row>
+          <Row _id="id77a0">
+            <Column Value="-19.070505877596798" _id="id77a1"/>
+            <Column Value="0" _id="id77a2"/>
+            <Column Value="62.88505990678172" _id="id77a3"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id77a4">
+        <Rows _id="id77a5">
+          <Row _id="id77a6">
+            <Column Value="35.476636612734154" _id="id77a7"/>
+            <Column Value="0" _id="id77a8"/>
+            <Column Value="-8.296797422447934" _id="id77a9"/>
+          </Row>
+          <Row _id="id77aa">
+            <Column Value="0" _id="id77ab"/>
+            <Column Value="37.13998037102649" _id="id77ac"/>
+            <Column Value="0" _id="id77ad"/>
+          </Row>
+          <Row _id="id77ae">
+            <Column Value="-8.296797422447932" _id="id77af"/>
+            <Column Value="0" _id="id77b0"/>
+            <Column Value="52.3238184567817" _id="id77b1"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id77ce"/>
+      <PrincipleMomentsOfInertia _id="id77b2">
+        <RotationMatrix _id="id77b3">
+          <Rows _id="id77b4">
+            <Row _id="id77b5">
+              <Column Value="0.9253238356767861" _id="id77b6"/>
+              <Column Value="-4.578565212338092e-005" _id="id77b7"/>
+              <Column Value="-0.37917779079486447" _id="id77b8"/>
+            </Row>
+            <Row _id="id77b9">
+              <Column Value="4.920608259402236e-005" _id="id77ba"/>
+              <Column Value="0.9999999987891562" _id="id77bb"/>
+              <Column Value="0" _id="id77bc"/>
+            </Row>
+            <Row _id="id77bd">
+              <Column Value="0.3791777903664208" _id="id77be"/>
+              <Column Value="-1.8037784560277758e-005" _id="id77bf"/>
+              <Column Value="0.9253238368092961" _id="id77c0"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id77c1">
+          <Row _id="id77c2">
+            <Column Value="32.0767876046601" _id="id77c3"/>
+          </Row>
+          <Row _id="id77c4">
+            <Column Value="37.13998038327734" _id="id77c5"/>
+          </Row>
+          <Row _id="id77c6">
+            <Column Value="55.7236674526049" _id="id77c7"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id77c9">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="17073.8708095527" _id="id77ca"/>
+        <Scalar Name="Volume" Unit="mm3" Value="29909.648180926386" _id="id77cb"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id77cc"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.08075605008850124" _id="id77cd"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id77c8"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="11" Name="a_2038_02_4Z" SpecialInstruction="" Type="PART" _id="id77cf">
+      <BoundingBox X="59.5" Y="48.000152386322" Z="37.50014540778546" _id="id77d1">
+        <OutlinePoints _id="id77d2">
+          <Point X="-23.999999999999996" Y="-24.00007684269414" Z="-0.00014540778546301425" _id="id77d3"/>
+          <Point X="35.5" Y="24.000075543627865" Z="37.5" _id="id77d4"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="17.60529076990761" Y="0" Z="14.278840419901915" _id="id77d0"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id77d5">
+        <Rows _id="id77d6">
+          <Row _id="id77d7">
+            <Column Value="35.68388936115947" _id="id77d8"/>
+            <Column Value="0" _id="id77d9"/>
+            <Column Value="-18.790133128226906" _id="id77da"/>
+          </Row>
+          <Row _id="id77db">
+            <Column Value="0" _id="id77dc"/>
+            <Column Value="50.70156647568214" _id="id77dd"/>
+            <Column Value="0" _id="id77de"/>
+          </Row>
+          <Row _id="id77df">
+            <Column Value="-18.790133128226906" _id="id77e0"/>
+            <Column Value="0" _id="id77e1"/>
+            <Column Value="45.6116343720776" _id="id77e2"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id77e3">
+        <Rows _id="id77e4">
+          <Row _id="id77e5">
+            <Column Value="23.63258704301711" _id="id77e6"/>
+            <Column Value="0" _id="id77e7"/>
+            <Column Value="-3.931315799388429" _id="id77e8"/>
+          </Row>
+          <Row _id="id77e9">
+            <Column Value="0" _id="id77ea"/>
+            <Column Value="20.329882958620253" _id="id77eb"/>
+            <Column Value="0" _id="id77ec"/>
+          </Row>
+          <Row _id="id77ed">
+            <Column Value="-3.931315799388429" _id="id77ee"/>
+            <Column Value="0" _id="id77ef"/>
+            <Column Value="27.29125317315807" _id="id77f0"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id780d"/>
+      <PrincipleMomentsOfInertia _id="id77f1">
+        <RotationMatrix _id="id77f2">
+          <Rows _id="id77f3">
+            <Row _id="id77f4">
+              <Column Value="9.023407302712512e-005" _id="id77f5"/>
+              <Column Value="-0.8431740870780656" _id="id77f6"/>
+              <Column Value="-0.5376406334512699" _id="id77f7"/>
+            </Row>
+            <Row _id="id77f8">
+              <Column Value="0.9999999943595173" _id="id77f9"/>
+              <Column Value="0.00010620423864492033" _id="id77fa"/>
+              <Column Value="0" _id="id77fb"/>
+            </Row>
+            <Row _id="id77fc">
+              <Column Value="5.602479460674704e-005" _id="id77fd"/>
+              <Column Value="-0.5376406305337519" _id="id77fe"/>
+              <Column Value="0.8431740919053977" _id="id77ff"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id7800">
+          <Row _id="id7801">
+            <Column Value="20.32988294962714" _id="id7802"/>
+          </Row>
+          <Row _id="id7803">
+            <Column Value="21.125827016418" _id="id7804"/>
+          </Row>
+          <Row _id="id7805">
+            <Column Value="29.798013208750294" _id="id7806"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7808">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="14306.03971404258" _id="id7809"/>
+        <Scalar Name="Volume" Unit="mm3" Value="21891.944436621176" _id="id780a"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id780b"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.059108249978877175" _id="id780c"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7807"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="12" Name="a_2038_02_9Z" SpecialInstruction="" Type="PART" _id="id780e">
+      <BoundingBox X="59.5" Y="48.000152386322" Z="37.50014540778546" _id="id7810">
+        <OutlinePoints _id="id7811">
+          <Point X="-23.999999999999996" Y="-24.00007684269414" Z="-0.00014540778546301425" _id="id7812"/>
+          <Point X="35.5" Y="24.000075543627865" Z="37.5" _id="id7813"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="17.60529076990761" Y="0" Z="14.278840419901915" _id="id780f"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7814">
+        <Rows _id="id7815">
+          <Row _id="id7816">
+            <Column Value="35.68388936115947" _id="id7817"/>
+            <Column Value="0" _id="id7818"/>
+            <Column Value="-18.790133128226906" _id="id7819"/>
+          </Row>
+          <Row _id="id781a">
+            <Column Value="0" _id="id781b"/>
+            <Column Value="50.70156647568214" _id="id781c"/>
+            <Column Value="0" _id="id781d"/>
+          </Row>
+          <Row _id="id781e">
+            <Column Value="-18.790133128226906" _id="id781f"/>
+            <Column Value="0" _id="id7820"/>
+            <Column Value="45.6116343720776" _id="id7821"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id7822">
+        <Rows _id="id7823">
+          <Row _id="id7824">
+            <Column Value="23.63258704301711" _id="id7825"/>
+            <Column Value="0" _id="id7826"/>
+            <Column Value="-3.931315799388429" _id="id7827"/>
+          </Row>
+          <Row _id="id7828">
+            <Column Value="0" _id="id7829"/>
+            <Column Value="20.329882958620253" _id="id782a"/>
+            <Column Value="0" _id="id782b"/>
+          </Row>
+          <Row _id="id782c">
+            <Column Value="-3.931315799388429" _id="id782d"/>
+            <Column Value="0" _id="id782e"/>
+            <Column Value="27.29125317315807" _id="id782f"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="ALUMINUM_ALLOY_6061_T4" _id="id784c"/>
+      <PrincipleMomentsOfInertia _id="id7830">
+        <RotationMatrix _id="id7831">
+          <Rows _id="id7832">
+            <Row _id="id7833">
+              <Column Value="9.023407302712512e-005" _id="id7834"/>
+              <Column Value="-0.8431740870780656" _id="id7835"/>
+              <Column Value="-0.5376406334512699" _id="id7836"/>
+            </Row>
+            <Row _id="id7837">
+              <Column Value="0.9999999943595173" _id="id7838"/>
+              <Column Value="0.00010620423864492033" _id="id7839"/>
+              <Column Value="0" _id="id783a"/>
+            </Row>
+            <Row _id="id783b">
+              <Column Value="5.602479460674704e-005" _id="id783c"/>
+              <Column Value="-0.5376406305337519" _id="id783d"/>
+              <Column Value="0.8431740919053977" _id="id783e"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id783f">
+          <Row _id="id7840">
+            <Column Value="20.32988294962714" _id="id7841"/>
+          </Row>
+          <Row _id="id7842">
+            <Column Value="21.125827016418" _id="id7843"/>
+          </Row>
+          <Row _id="id7844">
+            <Column Value="29.798013208750294" _id="id7845"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7847">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="14306.03971404258" _id="id7848"/>
+        <Scalar Name="Volume" Unit="mm3" Value="21891.944436621176" _id="id7849"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.7e-006" _id="id784a"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.059108249978877175" _id="id784b"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7846"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="13" Name="hebi_x5_9_5Z" SpecialInstruction="" Type="PART" _id="id784d">
+      <BoundingBox X="109.6396980150299" Y="73.00001876601228" Z="31.050000000000004" _id="id784f">
+        <OutlinePoints _id="id7850">
+          <Point X="-73.13968019999999" Y="-36.50000490988304" Z="-15.000000000000004" _id="id7851"/>
+          <Point X="36.5000178150299" Y="36.500013856129236" Z="16.05" _id="id7852"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="-14.201932213915619" Y="-1.5117344265401031" Z="0.006470772220951715" _id="id784e"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7853">
+        <Rows _id="id7854">
+          <Row _id="id7855">
+            <Column Value="150.477674804471" _id="id7856"/>
+            <Column Value="-28.024291907881036" _id="id7857"/>
+            <Column Value="0.04672674379534136" _id="id7858"/>
+          </Row>
+          <Row _id="id7859">
+            <Column Value="-28.024291907881036" _id="id785a"/>
+            <Column Value="332.23446114993055" _id="id785b"/>
+            <Column Value="0.14133981264362705" _id="id785c"/>
+          </Row>
+          <Row _id="id785d">
+            <Column Value="0.046726743795341474" _id="id785e"/>
+            <Column Value="0.14133981264362708" _id="id785f"/>
+            <Column Value="428.64822932281356" _id="id7860"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id7861">
+        <Rows _id="id7862">
+          <Row _id="id7863">
+            <Column Value="149.65465726364275" _id="id7864"/>
+            <Column Value="-20.29262622997128" _id="id7865"/>
+            <Column Value="0.0136324075071831" _id="id7866"/>
+          </Row>
+          <Row _id="id7867">
+            <Column Value="-20.292626229971276" _id="id7868"/>
+            <Column Value="259.5996036475119" _id="id7869"/>
+            <Column Value="0.13781706329257162" _id="id786a"/>
+          </Row>
+          <Row _id="id786b">
+            <Column Value="0.013632407507183211" _id="id786c"/>
+            <Column Value="0.13781706329257165" _id="id786d"/>
+            <Column Value="355.1903844368592" _id="id786e"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="Undefined" _id="id788b"/>
+      <PrincipleMomentsOfInertia _id="id786f">
+        <RotationMatrix _id="id7870">
+          <Rows _id="id7871">
+            <Row _id="id7872">
+              <Column Value="0.9844093280813658" _id="id7873"/>
+              <Column Value="-0.17589277630920822" _id="id7874"/>
+              <Column Value="-7.764427011704894e-005" _id="id7875"/>
+            </Row>
+            <Row _id="id7876">
+              <Column Value="0.17589270128712506" _id="id7877"/>
+              <Column Value="0.9844082645087612" _id="id7878"/>
+              <Column Value="0.0014582183536961477" _id="id7879"/>
+            </Row>
+            <Row _id="id787a">
+              <Column Value="-0.00018005641350168488" _id="id787b"/>
+              <Column Value="-0.0014491408101682953" _id="id787c"/>
+              <Column Value="0.9999989337847317" _id="id787d"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id787e">
+          <Row _id="id787f">
+            <Column Value="146.0288004207797" _id="id7880"/>
+          </Row>
+          <Row _id="id7881">
+            <Column Value="263.2252605812689" _id="id7882"/>
+          </Row>
+          <Row _id="id7883">
+            <Column Value="355.1905843459651" _id="id7884"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id7886">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="36698.96590300831" _id="id7887"/>
+        <Scalar Name="Volume" Unit="mm3" Value="156574.95365799713" _id="id7888"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.3e-006" _id="id7889"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.3601223934133934" _id="id788a"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id7885"/>
+    </MetricComponent>
+    <MetricComponent ComponentDefinitionSource="CYPHY" CoordinateSystem="DEFAULT" MetricID="14" Name="hebi_x5_9_10Z" SpecialInstruction="" Type="PART" _id="id788c">
+      <BoundingBox X="109.6396980150299" Y="73.00001876601228" Z="31.050000000000004" _id="id788e">
+        <OutlinePoints _id="id788f">
+          <Point X="-73.13968019999999" Y="-36.50000490988304" Z="-15.000000000000004" _id="id7890"/>
+          <Point X="36.5000178150299" Y="36.500013856129236" Z="16.05" _id="id7891"/>
+        </OutlinePoints>
+      </BoundingBox>
+      <CG X="-14.201932213915619" Y="-1.5117344265401031" Z="0.006470772220951715" _id="id788d"/>
+      <InertiaTensor At="DEFAULT_CSYS" _id="id7892">
+        <Rows _id="id7893">
+          <Row _id="id7894">
+            <Column Value="150.477674804471" _id="id7895"/>
+            <Column Value="-28.024291907881036" _id="id7896"/>
+            <Column Value="0.04672674379534136" _id="id7897"/>
+          </Row>
+          <Row _id="id7898">
+            <Column Value="-28.024291907881036" _id="id7899"/>
+            <Column Value="332.23446114993055" _id="id789a"/>
+            <Column Value="0.14133981264362705" _id="id789b"/>
+          </Row>
+          <Row _id="id789c">
+            <Column Value="0.046726743795341474" _id="id789d"/>
+            <Column Value="0.14133981264362708" _id="id789e"/>
+            <Column Value="428.64822932281356" _id="id789f"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <InertiaTensor At="CENTER_OF_GRAVITY" _id="id78a0">
+        <Rows _id="id78a1">
+          <Row _id="id78a2">
+            <Column Value="149.65465726364275" _id="id78a3"/>
+            <Column Value="-20.29262622997128" _id="id78a4"/>
+            <Column Value="0.0136324075071831" _id="id78a5"/>
+          </Row>
+          <Row _id="id78a6">
+            <Column Value="-20.292626229971276" _id="id78a7"/>
+            <Column Value="259.5996036475119" _id="id78a8"/>
+            <Column Value="0.13781706329257162" _id="id78a9"/>
+          </Row>
+          <Row _id="id78aa">
+            <Column Value="0.013632407507183211" _id="id78ab"/>
+            <Column Value="0.13781706329257165" _id="id78ac"/>
+            <Column Value="355.1903844368592" _id="id78ad"/>
+          </Row>
+        </Rows>
+      </InertiaTensor>
+      <Material Type="Undefined" _id="id78ca"/>
+      <PrincipleMomentsOfInertia _id="id78ae">
+        <RotationMatrix _id="id78af">
+          <Rows _id="id78b0">
+            <Row _id="id78b1">
+              <Column Value="0.9844093280813658" _id="id78b2"/>
+              <Column Value="-0.17589277630920822" _id="id78b3"/>
+              <Column Value="-7.764427011704894e-005" _id="id78b4"/>
+            </Row>
+            <Row _id="id78b5">
+              <Column Value="0.17589270128712506" _id="id78b6"/>
+              <Column Value="0.9844082645087612" _id="id78b7"/>
+              <Column Value="0.0014582183536961477" _id="id78b8"/>
+            </Row>
+            <Row _id="id78b9">
+              <Column Value="-0.00018005641350168488" _id="id78ba"/>
+              <Column Value="-0.0014491408101682953" _id="id78bb"/>
+              <Column Value="0.9999989337847317" _id="id78bc"/>
+            </Row>
+          </Rows>
+        </RotationMatrix>
+        <Rows _id="id78bd">
+          <Row _id="id78be">
+            <Column Value="146.0288004207797" _id="id78bf"/>
+          </Row>
+          <Row _id="id78c0">
+            <Column Value="263.2252605812689" _id="id78c1"/>
+          </Row>
+          <Row _id="id78c2">
+            <Column Value="355.1905843459651" _id="id78c3"/>
+          </Row>
+        </Rows>
+      </PrincipleMomentsOfInertia>
+      <Scalars _id="id78c5">
+        <Scalar Name="SurfaceArea" Unit="mm2" Value="36698.96590300831" _id="id78c6"/>
+        <Scalar Name="Volume" Unit="mm3" Value="156574.95365799713" _id="id78c7"/>
+        <Scalar Name="Density" Unit="kg/mm3" Value="2.3e-006" _id="id78c8"/>
+        <Scalar Name="Mass" Unit="kg" Value="0.3601223934133934" _id="id78c9"/>
+      </Scalars>
+      <Units Distance="millimeter" Force="kg mm/sec2" Mass="kilogram" Temperature="centigrade" Time="second" _id="id78c4"/>
+    </MetricComponent>
+  </MetricComponents>
+
+</CADMetricRoot>

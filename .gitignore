@@ -1,0 +1,8 @@
+# python
+venv/
+build/
+dist/
+*.pyc
+
+# pycharm
+*.idea

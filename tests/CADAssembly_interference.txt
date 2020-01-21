@@ -1,0 +1,17 @@
+Tue Jan 14 14:22:07 2020
+Assembly Name: TestModel_1.asm
+MetricID: id-0067-000037c9
+InterferenceCount: 2
+
+CADComputation (i.e. Metrics):
+   componentID:                                {272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1
+   metricID:                                   id-0067-000037c9
+   computationType (MetricType):               InterferenceCount
+   computationSubType:                         NONE
+   computationDimension (RequestedValueType):  SCALAR
+   datumName (details)                         
+Part 1 Name                     Part 2 Name                     Interference Volume   Units
+------------------------------  ------------------------------  --------------------  --------------
+A_2119_01_6Z                    HEBI_X5_9_5Z                    459.864               mm3
+A_2119_01_11Z                   HEBI_X5_9_10Z                   459.864               mm3
+Interference analysis completed successfully.

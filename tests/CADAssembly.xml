@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Assemblies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" VersionInfo="" xsi:noNamespaceSchemaLocation="AssemblyInterface.xsd">
+  <Assembly ConfigurationID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" _id="id7110">
+    <Analyses _id="id7374">
+      <Static AnalysisID="id-0065-000015d3" _id="id7375">
+        <Metrics _id="id7436">
+          <Metric MetricType="BOUNDINGBOX" ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" RequestedValueType="Vector" MetricID="id-0067-000037cb" Details="" _id="id7376" />
+          <Metric MetricType="CENTEROFGRAVITY" ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" RequestedValueType="Vector" MetricID="id-0067-000037ca" Details="" _id="id7377" />
+          <Metric MetricType="MASS" ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" RequestedValueType="Scalar" MetricID="id-0067-000037c8" Details="" _id="id7378" />
+          <Metric MetricType="INTERFERENCECOUNT" ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" RequestedValueType="Scalar" MetricID="id-0067-000037c9" Details="" _id="id7379" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT1A" Details="LINKPOINT1A" _id="id7380" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT2" Details="LINKPOINT2" _id="id7381" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT1" Details="LINKPOINT1" _id="id7382" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT2A" Details="LINKPOINT2A" _id="id7383" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT1A" Details="LINKPOINT1A" _id="id7384" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT2" Details="LINKPOINT2" _id="id7385" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT1" Details="LINKPOINT1" _id="id7386" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3:LINKPOINT2A" Details="LINKPOINT2A" _id="id7387" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" RequestedValueType="Vector" MetricID="a316bf0e-b929-4b55-a142-489eaad74273:LINKPOINT1A" Details="LINKPOINT1A" _id="id7388" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" RequestedValueType="Vector" MetricID="a316bf0e-b929-4b55-a142-489eaad74273:LINKPOINT2" Details="LINKPOINT2" _id="id7389" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" RequestedValueType="Vector" MetricID="a316bf0e-b929-4b55-a142-489eaad74273:LINKPOINT1" Details="LINKPOINT1" _id="id7390" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" RequestedValueType="Vector" MetricID="a316bf0e-b929-4b55-a142-489eaad74273:LINKPOINT2A" Details="LINKPOINT2A" _id="id7391" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT3A" Details="LINKPOINT3A" _id="id7392" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT2A" Details="LINKPOINT2A" _id="id7393" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT4" Details="LINKPOINT4" _id="id7394" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT1A" Details="LINKPOINT1A" _id="id7395" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT3" Details="LINKPOINT3" _id="id7396" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT4A" Details="LINKPOINT4A" _id="id7397" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT2" Details="LINKPOINT2" _id="id7398" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" RequestedValueType="Vector" MetricID="0293b7a1-af8e-4522-8707-6fbf786585db:LINKPOINT1" Details="LINKPOINT1" _id="id7399" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT2" Details="LINKPOINT2" _id="id7400" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT2A" Details="LINKPOINT2A" _id="id7401" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT1" Details="LINKPOINT1" _id="id7402" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT1A" Details="LINKPOINT1A" _id="id7403" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT2A" Details="LINKPOINT2A" _id="id7404" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT2" Details="LINKPOINT2" _id="id7405" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT1A" Details="LINKPOINT1A" _id="id7406" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a:LINKPOINT1" Details="LINKPOINT1" _id="id7407" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" RequestedValueType="Vector" MetricID="76cddc75-c978-44ff-b83b-d3825ad83564:LINKPOINT1A" Details="LINKPOINT1A" _id="id7408" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" RequestedValueType="Vector" MetricID="76cddc75-c978-44ff-b83b-d3825ad83564:LINKPOINT1" Details="LINKPOINT1" _id="id7409" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" RequestedValueType="Vector" MetricID="5c964f2c-cd43-458b-90c2-b27754253920:LINKPOINT1A" Details="LINKPOINT1A" _id="id7410" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" RequestedValueType="Vector" MetricID="5c964f2c-cd43-458b-90c2-b27754253920:LINKPOINT1" Details="LINKPOINT1" _id="id7411" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT1" Details="LINKPOINT1" _id="id7412" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT1A" Details="LINKPOINT1A" _id="id7413" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT2" Details="LINKPOINT2" _id="id7414" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT2A" Details="LINKPOINT2A" _id="id7415" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT2" Details="LINKPOINT2" _id="id7416" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT1A" Details="LINKPOINT1A" _id="id7417" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT2A" Details="LINKPOINT2A" _id="id7418" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0:LINKPOINT1" Details="LINKPOINT1" _id="id7419" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT2" Details="LINKPOINT2" _id="id7420" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT2A" Details="LINKPOINT2A" _id="id7421" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT1A" Details="LINKPOINT1A" _id="id7422" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT1" Details="LINKPOINT1" _id="id7423" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT2" Details="LINKPOINT2" _id="id7424" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT1" Details="LINKPOINT1" _id="id7425" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT1A" Details="LINKPOINT1A" _id="id7426" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69:LINKPOINT2A" Details="LINKPOINT2A" _id="id7427" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT1A" Details="LINKPOINT1A" _id="id7428" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT2" Details="LINKPOINT2" _id="id7429" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT2A" Details="LINKPOINT2A" _id="id7430" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT1" Details="LINKPOINT1" _id="id7431" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT1A" Details="LINKPOINT1A" _id="id7432" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT2A" Details="LINKPOINT2A" _id="id7433" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT2" Details="LINKPOINT2" _id="id7434" />
+          <Metric MetricType="POINTCOORDINATES" ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" RequestedValueType="Vector" MetricID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8:LINKPOINT1" Details="LINKPOINT1" _id="id7435" />
+        </Metrics>
+      </Static>
+    </Analyses>
+    <CADComponent ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" Name="TestModel_1" DisplayName="TestModel_1" Type="ASSEMBLY" SpecialInstruction="" MaterialID="" Representation="" _id="id7111">
+      <CADComponent ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" Name="tubepar" DisplayName="1_25_in_AL_Tube_Parametric" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7252">
+        <Constraint _id="id7112">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7113">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7114" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7115" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7116">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="BOTTOM_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7117" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7118" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7119">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="BOT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7120" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7121" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7253">
+          <CADParameter Name="LENGTH" Type="Float" Value="175" _id="id7254">
+            <Units Value="" _id="id7255" />
+          </CADParameter>
+          <CADParameter Name="ROTATETOP" Type="Float" Value="0" _id="id7256">
+            <Units Value="" _id="id7257" />
+          </CADParameter>
+          <CADParameter Name="SET_MASS" Type="Float" Value="6" _id="id7258">
+            <Units Value="" _id="id7259" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7260">
+            <Units Value="" _id="id7261" />
+          </CADParameter>
+          <CADParameter Name="MODELED_BY" Type="String" Value="0" _id="id7262">
+            <Units Value="" _id="id7263" />
+          </CADParameter>
+          <CADParameter Name="ROTATEBOT" Type="Float" Value="0" _id="id7264">
+            <Units Value="" _id="id7265" />
+          </CADParameter>
+          <CADParameter Name="DESCRIPTION" Type="String" Value="0" _id="id7266">
+            <Units Value="" _id="id7267" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" Name="tubepar" DisplayName="1_25_in_AL_Tube_Parametric" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7268">
+        <Constraint _id="id7122">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7123">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7124" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7125" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7126">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="BOT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7127" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7128" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7129">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="BOTTOM_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7130" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7131" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7269">
+          <CADParameter Name="ROTATETOP" Type="Float" Value="0" _id="id7270">
+            <Units Value="" _id="id7271" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7272">
+            <Units Value="" _id="id7273" />
+          </CADParameter>
+          <CADParameter Name="ROTATEBOT" Type="Float" Value="0" _id="id7274">
+            <Units Value="" _id="id7275" />
+          </CADParameter>
+          <CADParameter Name="LENGTH" Type="Float" Value="175" _id="id7276">
+            <Units Value="" _id="id7277" />
+          </CADParameter>
+          <CADParameter Name="SET_MASS" Type="Float" Value="6" _id="id7278">
+            <Units Value="" _id="id7279" />
+          </CADParameter>
+          <CADParameter Name="DESCRIPTION" Type="String" Value="0" _id="id7280">
+            <Units Value="" _id="id7281" />
+          </CADParameter>
+          <CADParameter Name="MODELED_BY" Type="String" Value="0" _id="id7282">
+            <Units Value="" _id="id7283" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" Name="tubepar" DisplayName="1_25_in_AL_Tube_Parametric" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7284">
+        <Constraint _id="id7132">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7133">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7134" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7135" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7136">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7137" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="BOTTOM_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7138" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7139">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7140" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="BOT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7141" />
+          </Pair>
+        </Constraint>
+        <Constraint _id="id7242">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7243">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7244" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7245" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7246">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7247" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="TOP_CLOCK" FeatureOrientationType="SIDE_A" _id="id7248" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7249">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7250" />
+            <ConstraintFeature ComponentID="a316bf0e-b929-4b55-a142-489eaad74273" FeatureName="TOP_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7251" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7285">
+          <CADParameter Name="ROTATETOP" Type="Float" Value="0" _id="id7286">
+            <Units Value="" _id="id7287" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7288">
+            <Units Value="" _id="id7289" />
+          </CADParameter>
+          <CADParameter Name="LENGTH" Type="Float" Value="313" _id="id7290">
+            <Units Value="" _id="id7291" />
+          </CADParameter>
+          <CADParameter Name="SET_MASS" Type="Float" Value="6" _id="id7292">
+            <Units Value="" _id="id7293" />
+          </CADParameter>
+          <CADParameter Name="MODELED_BY" Type="String" Value="0" _id="id7294">
+            <Units Value="" _id="id7295" />
+          </CADParameter>
+          <CADParameter Name="ROTATEBOT" Type="Float" Value="0" _id="id7296">
+            <Units Value="" _id="id7297" />
+          </CADParameter>
+          <CADParameter Name="DESCRIPTION" Type="String" Value="0" _id="id7298">
+            <Units Value="" _id="id7299" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" Name="chassis_box" DisplayName="Chassis_Box" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7300">
+        <Constraint _id="id7308">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7309">
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="FRONT" FeatureOrientationType="SIDE_A" _id="id7310" />
+            <ConstraintFeature ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" FeatureName="ASM_FRONT" FeatureOrientationType="SIDE_A" _id="id7311" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7312">
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="TOP" FeatureOrientationType="SIDE_A" _id="id7313" />
+            <ConstraintFeature ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" FeatureName="ASM_TOP" FeatureOrientationType="SIDE_A" _id="id7314" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7315">
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="RIGHT" FeatureOrientationType="SIDE_A" _id="id7316" />
+            <ConstraintFeature ComponentID="{272a6594-975d-4c4f-8cbe-b4f6e4d2b8f0}|1" FeatureName="ASM_RIGHT" FeatureOrientationType="SIDE_A" _id="id7317" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7301">
+          <CADParameter Name="BOX_WIDTH" Type="Float" Value="300" _id="id7302">
+            <Units Value="" _id="id7303" />
+          </CADParameter>
+          <CADParameter Name="BOX_LENGTH" Type="Float" Value="400" _id="id7304">
+            <Units Value="" _id="id7305" />
+          </CADParameter>
+          <CADParameter Name="BOX_HEIGHT" Type="Float" Value="100" _id="id7306">
+            <Units Value="" _id="id7307" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" Name="a_2119_01" DisplayName="In_Line_Tube_Adapter_Housing" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7318">
+        <Constraint _id="id7202">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7203">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7204" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7205" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7206">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="TOP_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7207" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7208" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7209">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="TOP_CLOCK" FeatureOrientationType="SIDE_A" _id="id7210" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7211" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7319">
+          <CADParameter Name="ROTATE_MOUNT" Type="Float" Value="180" _id="id7320">
+            <Units Value="" _id="id7321" />
+          </CADParameter>
+          <CADParameter Name="ROTATE_TUBE" Type="Float" Value="0" _id="id7322">
+            <Units Value="" _id="id7323" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7324">
+            <Units Value="" _id="id7325" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" Name="a_2119_01" DisplayName="In_Line_Tube_Adapter_Housing" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7326">
+        <Constraint _id="id7212">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7213">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="CENTER_AXIS" FeatureOrientationType="NONE" _id="id7214" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7215" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7216">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="TOP_CLOCK" FeatureOrientationType="SIDE_A" _id="id7217" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7218" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7219">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e041ce927-77c2-4099-b0bc-7ac113d3a0f3" FeatureName="TOP_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7220" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="TUBE_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7221" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7327">
+          <CADParameter Name="ROTATE_MOUNT" Type="Float" Value="180" _id="id7328">
+            <Units Value="" _id="id7329" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7330">
+            <Units Value="" _id="id7331" />
+          </CADParameter>
+          <CADParameter Name="ROTATE_TUBE" Type="Float" Value="0" _id="id7332">
+            <Units Value="" _id="id7333" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" Name="rplidar_a2" DisplayName="RPLIDAR_A2M8" Type="ASSEMBLY" SpecialInstruction="" MaterialID="" Representation="" _id="id7334">
+        <Constraint _id="id7142">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7143">
+            <ConstraintFeature ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7144" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="REAR_AXLE" FeatureOrientationType="NONE" _id="id7145" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7146">
+            <ConstraintFeature ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7147" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="RIGHT_REAR_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7148" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7149">
+            <ConstraintFeature ComponentID="76cddc75-c978-44ff-b83b-d3825ad83564" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7150" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="RIGHT_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7151" />
+          </Pair>
+        </Constraint>
+      </CADComponent>
+      <CADComponent ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" Name="rplidar_a2" DisplayName="RPLIDAR_A2M8" Type="ASSEMBLY" SpecialInstruction="" MaterialID="" Representation="" _id="id7335">
+        <Constraint _id="id7172">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7173">
+            <ConstraintFeature ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7174" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="REAR_AXLE" FeatureOrientationType="NONE" _id="id7175" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7176">
+            <ConstraintFeature ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7177" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="LEFT_REAR_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7178" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7179">
+            <ConstraintFeature ComponentID="5c964f2c-cd43-458b-90c2-b27754253920" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7180" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="LEFT_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7181" />
+          </Pair>
+        </Constraint>
+      </CADComponent>
+      <CADComponent ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" Name="a_2039_02" DisplayName="Tube_Adapter_Housing" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7336">
+        <Constraint _id="id7152">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7153">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7154" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="FRONT_AXLE" FeatureOrientationType="NONE" _id="id7155" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7156">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7157" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="RIGHT_FRONT_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7158" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7159">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dac59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7160" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="RIGHT_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7161" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7337">
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7338">
+            <Units Value="" _id="id7339" />
+          </CADParameter>
+          <CADParameter Name="ROTATETUBE" Type="Float" Value="0" _id="id7340">
+            <Units Value="" _id="id7341" />
+          </CADParameter>
+          <CADParameter Name="ROTATEMOUNT" Type="Float" Value="0" _id="id7342">
+            <Units Value="" _id="id7343" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" Name="a_2039_02" DisplayName="Tube_Adapter_Housing" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7344">
+        <Constraint _id="id7162">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7163">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7164" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="FRONT_AXLE" FeatureOrientationType="NONE" _id="id7165" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7166">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7167" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="LEFT_MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7168" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7169">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9e59d3d05e-251f-4cab-bf72-ef784f039bf0" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7170" />
+            <ConstraintFeature ComponentID="0293b7a1-af8e-4522-8707-6fbf786585db" FeatureName="LEFT_FRONT_MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7171" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7345">
+          <CADParameter Name="ROTATETUBE" Type="Float" Value="0" _id="id7346">
+            <Units Value="" _id="id7347" />
+          </CADParameter>
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7348">
+            <Units Value="" _id="id7349" />
+          </CADParameter>
+          <CADParameter Name="ROTATEMOUNT" Type="Float" Value="0" _id="id7350">
+            <Units Value="" _id="id7351" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" Name="a_2038_02" DisplayName="Tube_Adapter_Output" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7352">
+        <Constraint _id="id7222">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7223">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_AXIS" FeatureOrientationType="NONE" _id="id7224" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_AXIS" FeatureOrientationType="NONE" _id="id7225" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7226">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_PLANE" FeatureOrientationType="SIDE_A" _id="id7227" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_PLANE" FeatureOrientationType="SIDE_A" _id="id7228" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" Guide="True" _id="id7229">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_GUIDE" FeatureOrientationType="SIDE_A" _id="id7230" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacbc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_GUIDE" FeatureOrientationType="SIDE_A" _id="id7231" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7353">
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7354">
+            <Units Value="" _id="id7355" />
+          </CADParameter>
+          <CADParameter Name="ROTATETUBE" Type="Float" Value="180" _id="id7356">
+            <Units Value="" _id="id7357" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" Name="a_2038_02" DisplayName="Tube_Adapter_Output" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7358">
+        <Constraint _id="id7232">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7233">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_AXIS" FeatureOrientationType="NONE" _id="id7234" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_AXIS" FeatureOrientationType="NONE" _id="id7235" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" Guide="True" _id="id7236">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_GUIDE" FeatureOrientationType="SIDE_A" _id="id7237" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_GUIDE" FeatureOrientationType="SIDE_A" _id="id7238" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7239">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ebc6a5ce0-65ba-4fee-8a21-de0cf629ec69" FeatureName="ROT_PLANE" FeatureOrientationType="SIDE_A" _id="id7240" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="ROT_PLANE" FeatureOrientationType="SIDE_A" _id="id7241" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7359">
+          <CADParameter Name="PTC_MATERIAL_NAME" Type="String" Value="ALUMINUM_ALLOY_6061_T4" _id="id7360">
+            <Units Value="" _id="id7361" />
+          </CADParameter>
+          <CADParameter Name="ROTATETUBE" Type="Float" Value="180" _id="id7362">
+            <Units Value="" _id="id7363" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" Name="hebi_x5_9" DisplayName="X5_9" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7364">
+        <Constraint _id="id7182">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7183">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7184" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7185" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7186">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7187" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7188" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7189">
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dacce7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7190" />
+            <ConstraintFeature ComponentID="28c38de6-a26e-4c44-926d-a63173498dace8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7191" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7365">
+          <CADParameter Name="ROTATION" Type="Float" Value="0" _id="id7366">
+            <Units Value="" _id="id7367" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+      <CADComponent ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" Name="hebi_x5_9" DisplayName="X5_9" Type="PART" SpecialInstruction="" MaterialID="" Representation="" _id="id7368">
+        <Constraint _id="id7192">
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="AXIS" FeatureAlignmentType="ALIGN" _id="id7193">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7194" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_AXIS" FeatureOrientationType="NONE" _id="id7195" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="ALIGN" _id="id7196">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7197" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_CLOCK" FeatureOrientationType="SIDE_A" _id="id7198" />
+          </Pair>
+          <Pair FeatureInterfaceType="CAD_DATUM" FeatureGeometryType="SURFACE" FeatureAlignmentType="MATE" _id="id7199">
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ee8ed074f-44f8-4354-931c-23c060d06b5a" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7200" />
+            <ConstraintFeature ComponentID="534f409d-2648-4d43-8a8f-88449313af9ece7ec15c-0bda-4d5c-81ba-d149e6d990b8" FeatureName="MOUNT_PLANE" FeatureOrientationType="SIDE_A" _id="id7201" />
+          </Pair>
+        </Constraint>
+        <ParametricParameters _id="id7369">
+          <CADParameter Name="ROTATION" Type="Float" Value="0" _id="id7370">
+            <Units Value="" _id="id7371" />
+          </CADParameter>
+        </ParametricParameters>
+      </CADComponent>
+    </CADComponent>
+    <Properties _id="id7372">
+      <Units Value="value1" _id="id7373" />
+    </Properties>
+  </Assembly>
+  <DataExchange _id="id7437">
+    <NonSTEPFormat FormatType="Stereolithography" FormatSubType="BINARY" _id="id7438" />
+  </DataExchange>
+</Assemblies>
