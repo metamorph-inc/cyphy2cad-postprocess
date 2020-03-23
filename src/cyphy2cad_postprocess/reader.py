@@ -157,7 +157,7 @@ class CyPhy2CADReader(object):
             def get_scalar(metric_component, name):
                 scalar = metric_component.find("./Scalars/Scalar[@Name='{}']".format(name))
                 if scalar is not None:
-                    return scalar.get('Value')
+                    return float(scalar.get('Value'))
                 else:
                     return None
 
